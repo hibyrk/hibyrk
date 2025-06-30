@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm @hibyrk
 
-<!--
-**hibyrk/hibyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old high school student from Turkey, and I just started learning to code.  
+Currently focused on **JavaScript** and the fundamentals of web development.
 
-Here are some ideas to get you started:
+## 🚀 My Goal
+Build a strong foundation step by step and create simple but real projects as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning Now
+- JavaScript (core concepts, functions, logic)
+- HTML & CSS (basic structure and styling)
+- Git & GitHub (version control and collaboration)
+
+## 🛠️ Tools I'm Using
+- Visual Studio Code  
+- GitHub  
+- Live Server extension
+
+## 📅 Learning Progress
+I'll be updating this profile as I build and upload projects along the way.  
+I'm not in a rush — just aiming for consistency.
+
+> "Started from zero. Building step by step."  
+
+---
+
+📫 You can check out my projects or follow my journey here on GitHub.
